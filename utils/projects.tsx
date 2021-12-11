@@ -1,4 +1,3 @@
-import SyntheticLoot from "@components/SyntheticLoot";
 import { Project } from "../types/interface";
 const loot: Project = {
   name: "Loot (for Filmmakers)",
