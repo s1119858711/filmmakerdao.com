@@ -16,7 +16,6 @@ export default function Layout({
     <div>
       {/* Meta */}
       <Head />
-      {/* End Google Tag Manager (noscript) */}
       {/* Top header */}
       <Header links={headerLinks} hidden={hidden} onClick={() => setHidden(hidden => !hidden)} />
 

@@ -18,9 +18,10 @@ export default function Home(): ReactElement {
       <div className="mx-auto px-2 sm:px-4 text-center py-10 sm:py-20 justify-around flex flex-wrap hero-img bg-opacity-10">
         <div className="w-full sm:w-1/2">
           <div className="sm:px-4">
-            <h1>FilmmakerDAO Season 1 Membership NFT</h1>
+          <h1> FilmmakerDAO Season I </h1>
+            <h2> Membership NFT  </h2>
 
-            <p className="text-xl sm:text-2xl text-gray-300">FilmmakerDAO Loot NFT is randomized storytelling card generated and stored on chain.</p>
+            <p className="text-xl sm:text-2xl text-gray-300">A collection of randomized storytelling cards generated and stored on the Ethereum blockchain.</p>
             <div>
               <div className="flex py-8 w-full justify-center space-x-6">
                 <a
@@ -55,8 +56,8 @@ export default function Home(): ReactElement {
           <div className="flex justify-around">
             <div className="px-4 sm:px-20 py-8 rounded-2xl text-center md:w-2/3 ">
               <span className="uppercase sm:text-xl tracking-widest text-gray-400">The Story begins here</span>
-              <h1 className="text-center mt-4 capitalize">Start here: Get a Filmmaker Card</h1>
-              <p className="text-xl sm:text-2xl text-gray-400">8,000 Bags full of Loot, discovered by Adventurers. Where did they come from? What stories do they hold? Collect a bag, learn its story, and begin your adventure. </p>
+              <h1 className="text-center mt-4 capitalize">Get your Filmmaker Card</h1>
+              <p className="text-xl sm:text-2xl text-gray-400">2,000 cards full of action, thriller, romance, and adventure. What stories do they hold? Collect a card, learn its archetype and structure, and begin your storyteller journey. </p>
             </div>
           </div>
           {onlyLoot.map(({ name, description, project }, i) => {

@@ -2,19 +2,15 @@ import { Links } from "../types/interface";
 export const headerLinks: Array<Links> = [
 
     {
-        name: "Build",
+        name: "How to Mint",
         path: "/build"
     },
     {
-        name: "Resources",
+        name: "Manifest",
         path: "/resources",
     },
     {
         name: "FAQ",
         path: "/faq"
-    },
-    {
-        name: "Forum",
-        path: "https://loot-talk.com/"
     },
 ];
