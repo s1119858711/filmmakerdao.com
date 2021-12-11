@@ -13,7 +13,7 @@ const SyntheticLoot = () => {
           className="bg-gray-800 hover:bg-gray-600 py-2 border-gray-600 border rounded px-4 my-1"
           onClick={connectWallet}
         >
-          Connect Wallet to View Your sLoot
+          Connect Wallet to View Your FilmmakerDAO NFT
         </button>
       ) : syntheticLootSVG ? (
         <div className="w-80">

@@ -1,13 +1,9 @@
 import SyntheticLoot from "@components/SyntheticLoot";
 import { Project } from "../types/interface";
 const loot: Project = {
-  name: "Loot (for Adventurers)",
-  description: "The original 8,000 OG Loot bags. ",
+  name: "Loot (for Filmmakers)",
+  description: "FilmmakerDAO Membership for Season 1 ",
   whatToDo: [
-    {
-      content: "Trade on Loot.exchange",
-      url: "https://www.loot.exchange/"
-    },
     {
       content: "Trade on OpenSea",
       url: "https://opensea.io/collection/lootproject"
@@ -15,11 +11,11 @@ const loot: Project = {
 
   ],
   contract: {
-    content: "0xff9c1b15b16263c61d017ee9f65c50e4ae0113d7",
+    content: "tba",
     url: "https://etherscan.io/"
   },
   twitter: {
-    url: "https://twitter.com/lootproject"
+    url: "https://twitter.com/filmmakerdao"
   },
   discord: {
     url: "https://discord.com/invite/23gbrJ6pje"
@@ -36,22 +32,22 @@ const mLoot: Project = {
     "1.5 million bags of More Loot (or \"mLoot\"), with ~250,000 more available per year. They are free to claim.",
   whatToDo: [
     {
-      content: "Mint an mLoot Bag",
+      content: "Mint an NFT Bag",
       url: "https://etherscan.io/address/0x1dfe7ca09e99d10835bf73044a23b73fc20623df#writeContract"
     }
   ],
   contract: {
-    content: "0x1dfe7Ca09e99d10835Bf73044a23B73Fc20623DF",
+    content: "tba",
     url: "https://etherscan.io/"
   },
   twitter: {
-    url: "https://twitter.com/dhof/status/1434180216444923923?lang=en"
+    url: "https://twitter.com/filmmakerdao"
   },
   discord: {
-    url: "https://discord.com/invite/23gbrJ6pje"
+    url: "https://discord.com/invite/TfQfnrHVap"
   },
   opensea: {
-    url: "https://opensea.io/collection/more-loot"
+    url: "https://opensea.io/collection/filmmakerdao-membership-season1"
   },
   image: "/mlootheader.svg"
 };

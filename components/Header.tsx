@@ -28,7 +28,7 @@ export function Header(props: NavProps) {
             {/* Main logo */}
             <div className={styles.header__logo}>
                 <Link href="/">
-                    <a><h2>Loot</h2></a>
+                    <a><h2>FilmmakerDAO</h2></a>
                 </Link>
             </div>
 
@@ -76,7 +76,7 @@ export function Header(props: NavProps) {
                         )}
                         {!isConnected && (
                             <button className={[styles.header__button, 'cursor-pointer  font-body'].join(' ')} onClick={connectWallet}>
-                                Connect to Lootverse
+                                Connect to FilmmakerNFT Loot
                             </button>
                         )}
                     </li>

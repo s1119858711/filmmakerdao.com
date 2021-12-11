@@ -6,20 +6,20 @@ export function Head(): ReactElement {
     return (
         <HTMLHead>
             {/* Primary Meta Tags */}
-            <title>Loot</title>
+            <title>FilmmakerDAO Season 1 Membership</title>
             <meta name="title" content="Loot" />
             <meta
                 name="description"
-                content="Loot is randomized adventurer gear generated and stored on chain."
+                content="The DAO for filmmakers and film enthusiasts "
             />
 
             {/* OG + Faceook */}
             <meta property="og:type" content="website" />
-            <meta property="og:url" content="https://www.lootproject.com/" />
+            <meta property="og:url" content="http://filmmakerdao.com/" />
             <meta property="og:title" content="Loot" />
             <meta
                 property="og:description"
-                content="Loot is randomized adventurer gear generated and stored on chain."
+                content="FilmmakerDAO Loot NFT is randomized storytelling card generated and stored on chain."
             />
             <meta property="og:image" content="https://lootproject.com/meta.png" />
 
@@ -29,7 +29,7 @@ export function Head(): ReactElement {
             <meta property="twitter:title" content="Loot" />
             <meta
                 property="twitter:description"
-                content="Loot is randomized adventurer gear generated and stored on chain."
+                content="FilmmakerDAO Loot NFT is randomized storytelling card generated and stored on chain."
             />
             <meta property="twitter:image" content="https://lootproject.com/meta.png" />
 
