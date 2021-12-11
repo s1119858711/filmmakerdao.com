@@ -76,7 +76,7 @@ export function Header(props: NavProps) {
                         )}
                         {!isConnected && (
                             <button className={[styles.header__button, 'cursor-pointer  font-body'].join(' ')} onClick={connectWallet}>
-                                Connect to FilmmakerNFT Loot
+                                Connect Wallet
                             </button>
                         )}
                     </li>

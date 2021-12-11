@@ -20,7 +20,7 @@ export function Card(props: CardProps) {
   const all = "w-full sm:w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/4 mb-10 "
   return (
     <div
-      className={project.name == "Loot (for Adventurers)" ? loot : all}
+      className={project.name == "FilmmakerDAO Membership NFT" ? loot : all}
     >
       <div className="bg-gray-900 rounded-3xl shadow-sm  my-3 transform hover:-translate-y-2 hover:border-gray-600  duration-150 mx-3 h-full flex flex-col">
         {project.image && (
@@ -54,23 +54,6 @@ export function Card(props: CardProps) {
               </span>
             </div>
           )}
-
-          {/* <div className="my-3">
-            <div className="flex justify-between">
-              <span className="self-center text-xl">
-                Project: {project.name}
-              </span>
-            </div>
-          </div> */}
-
-          {/* {project.neededProject && (
-            <div className="my-3">
-              <span className="text-xl">
-                Required: {project.neededProject.name}
-              </span>
-            </div>
-          )} */}
-
 
           {project.whatToDo && (
             <div className="flex gap-5 rounded pt-5 mt-auto">

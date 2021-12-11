@@ -6,8 +6,8 @@ export function Head(): ReactElement {
     return (
         <HTMLHead>
             {/* Primary Meta Tags */}
-            <title>FilmmakerDAO Season 1 Membership</title>
-            <meta name="title" content="Loot" />
+            <title>FilmmakerDAO Membership NFT </title>
+            <meta name="title" content="FilmmakerDAO" />
             <meta
                 name="description"
                 content="The DAO for filmmakers and film enthusiasts "
@@ -16,22 +16,22 @@ export function Head(): ReactElement {
             {/* OG + Faceook */}
             <meta property="og:type" content="website" />
             <meta property="og:url" content="http://filmmakerdao.com/" />
-            <meta property="og:title" content="Loot" />
+            <meta property="og:title" content="FilmmakerDAO" />
             <meta
                 property="og:description"
-                content="FilmmakerDAO Loot NFT is randomized storytelling card generated and stored on chain."
+                content="FilmmakerDAO Membership NFT is a collection of randomized storytelling cards generated and stored on chain."
             />
             <meta property="og:image" content="https://lootproject.com/meta.png" />
 
             {/* Twitter */}
             <meta property="twitter:card" content="summary_large_image" />
-            <meta property="twitter:url" content="https://www.lootproject.com/" />
-            <meta property="twitter:title" content="Loot" />
+            <meta property="twitter:url" content="https://twitter.com/filmmakerDAO" />
+            <meta property="twitter:title" content="FilmmakerDAO" />
             <meta
                 property="twitter:description"
-                content="FilmmakerDAO Loot NFT is randomized storytelling card generated and stored on chain."
+                content="FilmmakerDAO Membership NFT is a collection of randomized storytelling cards generated and stored on chain."
             />
-            <meta property="twitter:image" content="https://lootproject.com/meta.png" />
+            <meta property="twitter:image" content="https://gateway.pinata.cloud/ipfs/Qmcc1gARQQoErU99kF3TPrmxQhuXisJEsLRdZXJyR2KbQf" />
 
             {/* Font */}
             <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -45,11 +45,7 @@ export function Head(): ReactElement {
                 href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;700&family=Inconsolata:wght@300&display=swap"
                 rel="stylesheet"
             />
-            {/* Google Tag Manager */}
-            <script async src="https://www.googletagmanager.com/gtag/js?id=G-2NMMWQ34GS"></script>
-            <script>
 
-            </script>
             <script
                 dangerouslySetInnerHTML={{
                     __html: `
