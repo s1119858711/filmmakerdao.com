@@ -22,7 +22,6 @@ const loot: Project = {
   opensea: {
     url: "https://opensea.io/collection/filmmakerdao-membership-season1"
   },
-  image: "/once.png"
 };
 
 const mLoot: Project = {

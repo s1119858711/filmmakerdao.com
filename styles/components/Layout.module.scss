@@ -19,8 +19,8 @@
 
 .header__logo {
   a {
-    font-size: 24px;
-    color: white;
+    font-size: 18px;
+    color: rgba(241, 213, 247, 0.9);
     transition: 50ms ease-in-out;
 
     &:hover {
@@ -58,7 +58,7 @@
 }
 
 .header__links_active {
-  color: white !important;
+  color: rgba(241, 213, 247, 0.9) !important;
 }
 
 .footer {
@@ -67,11 +67,11 @@
 
   p {
     font-size: 20px;
-    color: #838383;
+    color: rgba(241, 213, 247, 0.9);
 
     > a {
       text-decoration: underline;
-      color: #838383;
+      color: rgba(241, 213, 247, 0.9);
     }
   }
 }

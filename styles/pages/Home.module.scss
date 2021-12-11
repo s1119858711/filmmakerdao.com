@@ -10,7 +10,7 @@
   }
 
   p {
-    color: #8e8e8e;
+    color: #000000;
     font-size: 22px;
     margin: 0px;
   }
@@ -100,7 +100,7 @@
 
 @media screen and (max-width: 600px) {
   .home__bag_attributes {
-    background-color: black;
+    background-image: linear-gradient(rgba(180, 168, 211, 0.9), rgba(195, 218, 193, 0.9)), url('/once.png');
     width: 300px;
     height: 300px;
     position: relative;
@@ -114,3 +114,5 @@
     }
   }
 }
+
+
