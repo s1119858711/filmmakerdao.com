@@ -8,17 +8,16 @@ const WEB3_MODAL_CONFIG = {
   network: "mainnet",
   cacheProvider: true,
   providerOptions: {
-    // TODO: Enable when NEXT_PUBLIC_ALCHEMY_API_KEY is defined
-    // walletconnect: {
-    //     package: WalletConnectProvider,
-    //     options: {
-    //       pollingInterval: 20000000,
-    //       rpc: {
-    //         1: process.env.NEXT_PUBLIC_ALCHEMY_API_KEY 
-    //       }
-    //     }
-    //   }
-  } // Add other providers here
+    walletconnect: {
+        package: WalletConnectProvider,
+        options: {
+            pollingInterval: 20000000,
+            rpc: {
+            1: process.env.NEXT_PUBLIC_ALCHEMY_API_KEY 
+         }
+        }
+     }
+  }
 };
 
 const isServer = typeof window === "undefined";
