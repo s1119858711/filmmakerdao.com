@@ -22,9 +22,6 @@ button {
     @apply font-display;
 }
 
-body {
-    @apply font-body text-white; 
-}
 
 html {
     scroll-behavior: smooth;
