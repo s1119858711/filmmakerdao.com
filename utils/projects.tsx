@@ -1,7 +1,7 @@
 import { Project } from "../types/interface";
 const loot: Project = {
   name: "Loot (for Filmmakers)",
-  description: "FilmmakerDAO Membership for Season 1 ",
+  description: "FilmmakerDAO Season 0 ",
   whatToDo: [
     {
       content: "Trade on OpenSea",
@@ -17,12 +17,12 @@ const loot: Project = {
     url: "https://twitter.com/filmmakerdao"
   },
   discord: {
-    url: "https://discord.com/invite/23gbrJ6pje"
+    url: "https://discord.com/invite/TfQfnrHVap"
   },
   opensea: {
-    url: "https://opensea.io/collection/lootproject"
+    url: "https://opensea.io/collection/filmmakerdao-membership-season1"
   },
-  image: "/lootheader.svg"
+  image: "/once.png"
 };
 
 const mLoot: Project = {

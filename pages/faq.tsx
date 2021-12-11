@@ -17,7 +17,7 @@ export default function FAQ(): ReactElement {
         </div>
 
         <div className="my-8">
-          <h3>What's the Season I Membership Collection?</h3>
+          <h3>What's the Season 0 Membership Collection?</h3>
           <p>
            TBA
           </p>
