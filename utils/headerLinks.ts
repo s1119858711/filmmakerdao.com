@@ -2,12 +2,12 @@ import { Links } from "../types/interface";
 export const headerLinks: Array<Links> = [
 
     {
-        name: "How to Mint",
-        path: "/build"
+        name: "Manifesto",
+        path: "/manifesto",
     },
     {
-        name: "Manifest",
-        path: "/resources",
+        name: "Roadmap",
+        path: "/roadmap"
     },
     {
         name: "FAQ",

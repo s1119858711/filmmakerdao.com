@@ -5,7 +5,7 @@ export function Footer(): ReactElement {
     return (
         <div className={styles.footer}>
             <p>
-on a multi-chain mission to empower every human to tell stories
+on a multi-chain mission to empower every human in the universe to tell stories
             </p>
         </div>
     );
