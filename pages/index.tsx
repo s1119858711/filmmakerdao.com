@@ -1,5 +1,6 @@
 import Layout from "@components/Layout"; // Layout wrapper
 import { CardRow } from "@components/Row";
+import { onlyLoot } from "../utils/newLists"
 import Opensea from "../img/opensea.svg"
 import Twitter from "../img/twitter.svg";
 import Discord from "../img/discord.svg";
