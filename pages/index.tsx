@@ -57,8 +57,8 @@ export default function Home(): ReactElement {
             <div className="px-4 sm:px-20 py-8 rounded-2xl text-center md:w-2/3 ">
               <span className="uppercase sm:text-xl tracking-widest text-gray-400">A thrilling story begins here</span>
               <h1 className="text-center mt-4 capitalize">Get your Storyteller Card</h1>
-              <p className="text-xl sm:text-2xl text-gray-400">Join us in this adventure based on the acclaimed Loot project
-              where archetypes, themes, and layouts are  as a premise for your own invention
+              <p className="text-xl sm:text-2xl text-gray-400">
+                Join us in this adventure based on the acclaimed Loot project where archetypes, themes, and layouts are a premise for your own invention
               </p>
             </div>
           </div>
