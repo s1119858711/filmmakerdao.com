@@ -14,8 +14,7 @@ export default function Home(): ReactElement {
       <div className="mx-auto px-2 sm:px-4 text-center py-10 sm:py-20 justify-around flex flex-wrap hero-img bg-opacity-10">
         <div className="w-full sm:w-1/2">
           <div className="sm:px-4">
-          <h1> FilmmakerDAO Season 0 </h1>
-            <h2> Membership NFT  </h2>
+          <h1> Season 0 Membership NFT </h1>
 
             <p className="text-xl sm:text-2xl text-gray-300">
             A collection of 1,999 randomized storytelling cards generated and stored on the Ethereum blockchain

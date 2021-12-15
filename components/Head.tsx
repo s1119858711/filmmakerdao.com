@@ -6,7 +6,7 @@ export function Head(): ReactElement {
     return (
         <HTMLHead>
             {/* Primary Meta Tags */}
-            <title>FilmmakerDAO Membership NFT </title>
+            <title>FilmmakerDAO</title>
             <meta name="title" content="FilmmakerDAO" />
             <meta
                 name="description"
@@ -19,9 +19,9 @@ export function Head(): ReactElement {
             <meta property="og:title" content="FilmmakerDAO" />
             <meta
                 property="og:description"
-                content="FilmmakerDAO Membership NFT is a collection of randomized storytelling cards generated and stored on chain."
+                content="The DAO for filmmakers and film enthusiasts ✨"
             />
-            <meta property="og:image" content="https://lootproject.com/meta.png" />
+            <meta property="twitter:image" content="https://gateway.pinata.cloud/ipfs/Qmcc1gARQQoErU99kF3TPrmxQhuXisJEsLRdZXJyR2KbQf" />
 
             {/* Twitter */}
             <meta property="twitter:card" content="summary_large_image" />
@@ -29,7 +29,7 @@ export function Head(): ReactElement {
             <meta property="twitter:title" content="FilmmakerDAO" />
             <meta
                 property="twitter:description"
-                content="FilmmakerDAO Membership NFT is a collection of randomized storytelling cards generated and stored on chain."
+                content="The DAO for filmmakers and film enthusiasts ✨"
             />
             <meta property="twitter:image" content="https://gateway.pinata.cloud/ipfs/Qmcc1gARQQoErU99kF3TPrmxQhuXisJEsLRdZXJyR2KbQf" />
 
@@ -53,7 +53,7 @@ export function Head(): ReactElement {
                     function gtag(){dataLayer.push(arguments);}
                     gtag('js', new Date());
 
-                    gtag('config', 'G-2NMMWQ34GS');
+                    gtag('config', '');
                 `,
                 }}
             />

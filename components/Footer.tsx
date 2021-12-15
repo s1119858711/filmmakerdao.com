@@ -5,7 +5,7 @@ export function Footer(): ReactElement {
     return (
         <div className={styles.footer}>
             <p>
-on a multi-chain mission to empower every human in the universe to tell stories
+            This website is community maintained and <a href="https://github.com/filmmakerDAO/filmmakerdao.com">open source</a>.
             </p>
         </div>
     );

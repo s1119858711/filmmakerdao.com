@@ -19,9 +19,7 @@ export default function Layout({
       {/* Top header */}
       <Header links={headerLinks} hidden={hidden} onClick={() => setHidden(hidden => !hidden)} />
 
-      {/* Mobile Nav */}
-      <MobileNav links={headerLinks} hidden={hidden} onClick={() => setHidden(hidden => !hidden)} />
-
+      
       {/* Page content */}
       <div>{children}</div>
 

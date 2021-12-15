@@ -1,4 +1,6 @@
-# FilmmakerDAO Loot
+# FilmmakerDAO.com
+
+Our website is community maintained and open source.
 
 ### Run locally
 
