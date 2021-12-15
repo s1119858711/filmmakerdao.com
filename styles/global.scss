@@ -7,8 +7,6 @@ body {
   color: rgb(223, 213, 213);
   background-color: hsl(0deg 0% 10%);
 
-  // Text
-  font-family: "EB Garamond", serif, sans-serif;
 }
 
 a {
@@ -22,4 +20,13 @@ h4,
 h5,
 h6 {
   font-weight: normal;
+}
+
+p {
+  padding: 0 0em 2em;
+}
+
+ol {
+  background: #858181;
+  padding: 40px;
 }
