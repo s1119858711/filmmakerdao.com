@@ -2,7 +2,7 @@
 
 Our website is community maintained and open source.
 
-### Run locally
+### Running locally
 
 ```bash
 yarn
