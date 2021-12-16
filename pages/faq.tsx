@@ -18,9 +18,16 @@ export default function FAQ(): ReactElement {
 FilmmakerDAO is the DAO for filmmakers and film enthusiasts.
 </p>
 <p>
-We coordinated efforts from filmmakers, technologists and art lovers who believe in the power of film, 
-and believe filmmakers should have more ownership of their career, and more sovereignty
- over the IP that they create, and who recognize that the current landscape of distribution 
+We coordinated efforts from filmmakers, technologists, and art lovers who believe in the power of film. 
+</p>
+<p>
+We believe 
+filmmakers should have more ownership of their career, and more sovereignty
+ over the IP that they create. 
+ 
+ </p>
+<p>
+ We recognize that the current landscape of distribution 
  options does not provide commensurate upside for the storytellers and artists whose work populates these platforms.
 </p>
 <p>
