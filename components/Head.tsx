@@ -21,7 +21,7 @@ export function Head(): ReactElement {
                 property="og:description"
                 content="The DAO for filmmakers and film enthusiasts ✨"
             />
-            <meta property="twitter:image" content="https://gateway.pinata.cloud/ipfs/Qmcc1gARQQoErU99kF3TPrmxQhuXisJEsLRdZXJyR2KbQf" />
+            <meta property="twitter:image" content="https://gateway.pinata.cloud/ipfs/QmepbViJRBN2wkWzPVAYvvpoFSPSyjoGxXoSHNzuwTFkPh" />
 
             {/* Twitter */}
             <meta property="twitter:card" content="summary_large_image" />
@@ -31,7 +31,7 @@ export function Head(): ReactElement {
                 property="twitter:description"
                 content="The DAO for filmmakers and film enthusiasts ✨"
             />
-            <meta property="twitter:image" content="https://gateway.pinata.cloud/ipfs/Qmcc1gARQQoErU99kF3TPrmxQhuXisJEsLRdZXJyR2KbQf" />
+            <meta property="twitter:image" content="https://gateway.pinata.cloud/ipfs/QmepbViJRBN2wkWzPVAYvvpoFSPSyjoGxXoSHNzuwTFkPh" />
 
             {/* Font */}
             <link rel="preconnect" href="https://fonts.googleapis.com" />

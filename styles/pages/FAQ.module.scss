@@ -9,7 +9,8 @@
 .faq__item {
   h3 {
     font-size: 28px;
-    border-bottom: 1px solid rgb(36, 34, 34);
+    font-weight: bold !important;
+    color: rgba(241, 213, 247, 0.9) !important;
     margin: 20px 0px 0px 0px;
     display: inline-block;
   }

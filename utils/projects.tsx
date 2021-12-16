@@ -6,7 +6,7 @@ const loot: Project = {
   whatToDo: [
     {
       content: "Mint a NFT",
-      url: "https://etherscan.io/address/0x1dfe7ca09e99d10835bf73044a23b73fc20623df#writeContract"
+      url: "https://etherscan.io/address/<>#writeContract"
     }
   ],
   contract: {
@@ -22,6 +22,7 @@ const loot: Project = {
   opensea: {
     url: "https://opensea.io/thefilmmakerdao.eth"
   },
+  image: "https://gateway.pinata.cloud/ipfs/QmepbViJRBN2wkWzPVAYvvpoFSPSyjoGxXoSHNzuwTFkPh"
 };
 
 export {
