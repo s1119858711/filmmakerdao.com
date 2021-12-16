@@ -1,11 +1,11 @@
 import { Project } from "../types/interface";
 
 const loot: Project = {
-  name: "Loot (for Filmmakers)",
+  name: "Storyteller Card",
   description: "FilmmakerDAO Season 0 ",
   whatToDo: [
     {
-      content: "Mint a NFT",
+      content: "Mint mine!",
       url: "https://etherscan.io/address/<>#writeContract"
     }
   ],
