@@ -22,7 +22,7 @@ const loot: Project = {
   opensea: {
     url: "https://opensea.io/thefilmmakerdao.eth"
   },
-  image: "https://gateway.pinata.cloud/ipfs/QmdRUQN3EdsxypmSyqRQQjruRpz3pttMvqAa8X2dwByF9V"
+  image: "https://gateway.pinata.cloud/ipfs/Qmd8WcdoHwGjav8tY6iSZxj3pBtE2y2r6J1fxBP2hGCE8C"
 };
 
 export {
