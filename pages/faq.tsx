@@ -32,7 +32,8 @@ and aligned in the vision to build more equitable distribution strategies for th
 <h3>What is the Storytelling Membership Card?</h3>
 
 <p>
-The Storytelling Card collection is the FilmmakerDAO NFT series for season 0. It is a randomized story generated and stored on-chain. 
+The Storytelling Card collection is the FilmmakerDAO NFT series for season 0. 
+Each card is a generative storytelling ERC721 token created and stored on-chain. 
 </p>
 <p>
 We thought Loot was a great project to spur further creative thought, and we hope Filmmakers can carry on that idea.
