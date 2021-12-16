@@ -28,6 +28,6 @@ html {
     scroll-behavior: smooth;
 }
 .hero-img {
-    background-image: linear-gradient(rgba(27, 11, 70, 0.9), rgba(34, 46, 33, 0.9)), url('/community.png');
+    background-image: linear-gradient(rgba(128, 188, 216, 0.9), rgba(38, 39, 39, 0.9)), url('/community.png');
     
 }

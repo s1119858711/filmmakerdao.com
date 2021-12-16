@@ -21,7 +21,7 @@
 .header__logo {
   a {
     font-size: 18px;
-    color: rgba(241, 213, 247, 0.9);
+    color: rgba(201, 195, 195, 0.9);
     transition: 50ms ease-in-out;
     font-weight: bold;
 
@@ -62,7 +62,7 @@
 }
 
 .header__links_active {
-  color: rgba(241, 213, 247, 0.9) !important;
+  color: rgba(154, 149, 155, 0.9) !important;
 }
 
 .footer {
@@ -77,6 +77,6 @@
 
     > a {
       text-decoration: none;
-      color: rgba(241, 213, 247, 0.9);
+      color: rgba(163, 159, 163, 0.9);
     }
 }
