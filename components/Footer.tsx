@@ -4,7 +4,7 @@ import React, { ReactElement } from 'react';
 export function Footer(): ReactElement {
     return (
         <div className={styles.footer}>
-            <a href="https://github.com/filmmakerDAO/filmmakerdao.com">
+            <a href="https://github.com/filmmakerDAO">
                Made with 🎬 in the Metaverse</a>
         </div>
     );
