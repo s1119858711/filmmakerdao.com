@@ -5,7 +5,7 @@ export function Footer(): ReactElement {
     return (
         <div className={styles.footer}>
             <a href="https://github.com/filmmakerDAO/filmmakerdao.com">
-                This website is based on Loot's community-maintained code.</a>
+                This website is based on Loot's community-maintained code</a>
         </div>
     );
 }

@@ -7,11 +7,11 @@ const loot: Project = {
   whatToDo: [
     {
       content: "Mint mine!",
-      url: "https://rinkeby.etherscan.io/address/0x458220CCd8d610FDad4B799D8ae446eCB4dEd83D#writeContract"
+      url: "https://generativestory.com"
     }
   ],
   contract: {
-    content: "0x458220CCd8d610FDad4B799D8ae446eCB4dEd83D",
+    content: "0x9213256Fe89FA0428e8546910A8D78180dBbDc38",
     url: "https://etherscan.io/"
   },
   twitter: {
