@@ -7,7 +7,7 @@ const loot: Project = {
   whatToDo: [
     {
       content: "Mint mine!",
-      url: "https://generativestory.com"
+      url: "https://www.generativestory.com/"
     }
   ],
   contract: {
