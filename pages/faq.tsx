@@ -55,7 +55,7 @@ Feel free to use your Storyteller Card in any way you want!
 </p>
 <p>
         
-FilmmakerDAO reserves 662 witches to gift (Token IDs from 1338 to 1999), either before or after the launch.
+FilmmakerDAO reserves 662 cards to gift (Token IDs from 1338 to 1999), either before or after the launch.
 </p>
 
         
