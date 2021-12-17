@@ -23,7 +23,7 @@ We coordinated efforts from filmmakers, technologists, and art lovers who believ
 <p>
 We believe 
 filmmakers should have more ownership of their career, and more sovereignty
- over the IP that they create. 
+ over the IP they create. 
  
  </p>
 <p>
@@ -48,7 +48,7 @@ Feel free to use your Storyteller Card in any way you want!
 
 </p>
 
-<h3>How the Storytelling Cards are rolled out?</h3>
+<h3>How are the Storytelling Cards rolled out?</h3>
 
 <p>
 1,999 Filmmakers will be available to mint for active community members starting 8:00 a.m. ET on December 17 at 0.05 ETH. 
