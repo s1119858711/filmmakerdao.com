@@ -36,7 +36,7 @@ and aligned in the vision to build more equitable distribution strategies for th
 </p>
 
 
-<h3>What is the Storytelling Membership Card?</h3>
+<h3>What are the Storytelling Cards?</h3>
 
 <p>
 The Storytelling Card collection is the FilmmakerDAO NFT series for season 0. 
@@ -44,24 +44,39 @@ Each card is a generative storytelling ERC721 token created and stored on-chain.
 </p>
 <p>
 We thought Loot was a great project to spur further creative thought, and we hope Filmmakers can carry on that idea.
-Feel free to use your Storyteller Card in any way you want.
+Feel free to use your Storyteller Card in any way you want!
 
 </p>
 
+<h3>How the Storytelling Cards are rolled out?</h3>
+
+<p>
+1,999 Filmmakers will be available to mint for active community members starting 8:00 a.m. ET on December 17 at 0.05 ETH. 
+</p>
+<p>
+        
+FilmmakerDAO reserves 662 witches to gift (Token IDs from 1338 to 1999), either before or after the launch.
+</p>
+
+        
+        
+        
 
 <h3>What can I do with my Storyteller Card?</h3>
 
 <p>
 
-Your Storyteller Card NFT will act as membership access to FilmmakerDAO Discord community. 
+Your Storyteller Card will act as membership access to FilmmakerDAO community. 
 </p>
 <p>
 Additionally, all cardholders will be airdropped 10% of $REEL (FilmmakerDAO’s illiquid governance token bridged in 
-the Polygon Network) and will be able to vote and decide the future of FilmmakerDAO.
+the Polygon Network) and will be able to vote and decide the future of FilmmakerDAO. The airdrop will happen at the beginning of Season 1.
 </p>
 <p>
 
-But governance is not all! Holding a Storyteller Card will allow you to attend any DAO-organized events such as private screenings, set visits productions, Q&A with top industry professionals, and social mixers. But what we do will be up to you, the Storyteller, as we write the story of FilmmakerDAO!
+But governance is not all! Holding a Storyteller Card will allow you to attend any DAO-organized events such as private screenings, 
+  set visits productions, Q&A with top industry professionals, and social mixers. 
+  But what we do will be up to you, the Storyteller, as we write the story of FilmmakerDAO!
 </p>
 
 
@@ -115,16 +130,20 @@ The Storytelling Card costs 0.05 ETH each to mint.
 <h3>How do I mint my Storytelling Card?</h3>
 
 <p>
-When you "mint" an NFT, you're interacting with a smart contract on the blockchain and making a transaction to create a new token under that contract, one that you own. 
+When you "mint" an NFT, you're interacting with a smart contract on the blockchain and making a transaction to create a 
+  new token under that contract, one that you own. 
 </p>
 <p>
-The easiest way to mint a Storytelling Card will be through the FilmmakerDAO  website, since we'll handle a lot of the complexity for you.
+  The easiest way to mint a Storytelling Card will be through the <a href="generativestory.com">generativestory.com</a> website, 
+  since we'll handle a lot of the complexity for you.
 </p>
 <p>
-You'll need to connect your wallet to our website using the "Connect Wallet" button - a modal will open, and you'll need to choose the wallet type you created earlier. 
+You'll need to connect your wallet to our website using the "Connect Wallet" button - a modal will open, 
+  and you'll need to choose the wallet type you created earlier. 
 </p>
 <p>
-Once your wallet is connected, select the number of Storytelling Cards you'd like to mint, with a max of three. Then click "Mint," and you should see an overview of the transaction you're about to create in your wallet, with the option to confirm it.
+Once your wallet is connected, select the Token ID of the Storytelling Card you'd like to mint.
+  Then click "Mint a Storycard", and you should see an overview of the transaction you're about to create in your wallet, with the option to confirm it.
 </p>
 <p>
 In most cases, the transaction should take a minute or two to be completed.
@@ -135,7 +154,7 @@ In most cases, the transaction should take a minute or two to be completed.
 <h3>How do I view and keep my Storytelling Card?</h3>
 
 <p>
-You should be able to view your Storytelling Card in your wallet or marketplaces like OpenSea and Zora.
+You should be able to view your Storytelling Card in your wallet or marketplaces like OpenSea.
 </p>
 
 
