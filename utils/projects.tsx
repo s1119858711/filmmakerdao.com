@@ -3,14 +3,15 @@ import { Project } from "../types/interface";
 const loot: Project = {
   name: "Storyteller Card",
   description: "FilmmakerDAO Season 0 ",
+  mintPrice: {mint: 0.05},
   whatToDo: [
     {
       content: "Mint mine!",
-      url: "https://etherscan.io/address/<>#writeContract"
+      url: "https://rinkeby.etherscan.io/address/0x458220CCd8d610FDad4B799D8ae446eCB4dEd83D#writeContract"
     }
   ],
   contract: {
-    content: "tba",
+    content: "0x458220CCd8d610FDad4B799D8ae446eCB4dEd83D",
     url: "https://etherscan.io/"
   },
   twitter: {
