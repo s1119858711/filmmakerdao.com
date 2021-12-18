@@ -24,7 +24,7 @@ export default function Home(): ReactElement {
             <div>
               <div className="flex py-8 w-full justify-center space-x-6">
                 <a
-                  href="https://opensea.io/thefilmmakerdao.eth"
+                  href="https://opensea.io/collection/storyteller-card"
                   className="self-center p-3 border border-gray-800 rounded-xl  bg-black hover:bg-gray-600"
                   target="_blank"
                 >
