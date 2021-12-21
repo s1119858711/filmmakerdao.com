@@ -69,8 +69,9 @@ FilmmakerDAO reserves 662 cards to gift (Token IDs from 1338 to 1999), either be
 Your Storyteller Card will act as membership access to FilmmakerDAO community. 
 </p>
 <p>
-Additionally, all cardholders will be airdropped 10% of $REEL (FilmmakerDAO’s illiquid governance token bridged in 
-the Polygon Network) and will be able to vote and decide the future of FilmmakerDAO. The airdrop will happen at the beginning of Season 1.
+Additionally, all cardholders will be airdropped 10% of $REEL (50 tokens). This is FilmmakerDAO’s illiquid governance token bridged in 
+the Polygon Network and will be able to vote and decide the future of FilmmakerDAO. The airdrop starts at the beginning of Season 1 (March) and will be vested 
+(10 $REEL/month for 5 months).
 </p>
 <p>
 
