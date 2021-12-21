@@ -51,7 +51,7 @@ Feel free to use your Storyteller Card in any way you want!
 <h3>How are the Storytelling Cards rolled out?</h3>
 
 <p>
-1,999 Filmmakers will be available to mint for active community members starting 8:00 a.m. ET on December 17 at 0.05 ETH. 
+1,999 Filmmakers will be available to mint for active community members starting 8:00 a.m. ET on December 17th, 2021, at 0.05 ETH. 
 </p>
 <p>
         
