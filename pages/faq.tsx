@@ -81,11 +81,18 @@ the Polygon Network and will be able to vote and decide the future of FilmmakerD
 <p>
 
 But governance is not all! Holding a Storyteller Card will allow you to attend any DAO-organized events such as private screenings, 
-  set visits productions, Q&A with top industry professionals, and social mixers. 
-  But what we do will be up to you, the Storyteller, as we write the story of FilmmakerDAO!
+  set visits productions, Q&A with top industry professionals, and social mixers... and some [surprises](https://twitter.com/filmmakerDAO/status/1473162340816146434?s=20)!
+  
+ </p>
+<p>
+  
+  
+Wat we do with your card will be up to you, the Storyteller, as we write the story of FilmmakerDAO! 😉
 </p>
 
 
+        
+        
 </div>
 
 <div className="container mx-auto px-4 sm:w-1/2">
