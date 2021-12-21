@@ -15,10 +15,15 @@ export default function FAQ(): ReactElement {
 <h2>What is FilmmakerDAO?</h2>
 
 <p>
-FilmmakerDAO is the DAO for filmmakers and film enthusiasts.
+FilmmakerDAO is the DAO for filmmakers and film enthusiasts. 
+ </p>
+<p> 
+  
+ DAO stands for Decentalized Autonomous Organisation: a group of people with shared goals that are governed by an agreed set of rules coded into smart contracts
+  on a blockchain.
 </p>
 <p>
-We coordinated efforts from filmmakers, technologists, and art lovers who believe in the power of film. 
+At FilmmakerDAO coordinated efforts from filmmakers, technologists, and art lovers who believe in the power of film. 
 </p>
 <p>
 We believe 
