@@ -21,7 +21,7 @@ const loot: Project = {
     url: "https://discord.com/invite/TfQfnrHVap"
   },
   opensea: {
-    url: "https://opensea.io/thefilmmakerdao.eth"
+    url: "https://opensea.io/collection/storyteller-card"
   },
   image: "https://gateway.pinata.cloud/ipfs/QmfXTPxm5EvnmkroPvW3DfocGrU4MfNkwCaXFE7aYRA1kP"
 };
