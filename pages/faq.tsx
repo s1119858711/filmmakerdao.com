@@ -92,7 +92,7 @@ But governance is not all! Holding a Storyteller Card will allow you to attend a
   
   
 <p> 
-What you do with your card will be up to you, the Storyteller, as you help writing the story of FilmmakerDAO!
+What you do with your card will be up to you, the Storyteller, as you help write the story of FilmmakerDAO!
 </p>
 
     
