@@ -46,6 +46,13 @@ and aligned in the vision to build more equitable distribution strategies for th
 <p>
 The Storytelling Card collection is the FilmmakerDAO NFT series for season 0. 
 Each card is a generative storytelling ERC721 token created and stored on-chain. 
+  </p>
+<p>
+  
+  This collection was created and written by one of our core members, <a href="https://twitter.com/bt3gl">bt3gl</a>, 
+  and all proceeds will be to be donated to our treasury, a Gnosis multi-wallet.
+  
+  
 </p>
 <p>
 We thought Loot was a great project to spur further creative thought, and we hope Filmmakers can carry on that idea.
@@ -53,6 +60,9 @@ Feel free to use your Storyteller Card in any way you want!
 
 </p>
 
+        
+  </p>
+<p>      
 <h3>How are the Storytelling Cards rolled out?</h3>
 
 <p>
