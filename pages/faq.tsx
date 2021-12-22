@@ -43,6 +43,7 @@ and aligned in the vision to build more equitable distribution strategies for th
 </p>
 
 
+  
 <h3>What are the Storytelling Cards?</h3>
 
 <p>
@@ -70,6 +71,7 @@ Feel free to use your Storyteller Card in any way you want!
 FilmmakerDAO reserves 662 cards to gift (Token IDs from 1338 to 1999), either before or after the launch.
 </p>
 
+   
              
 
 <h3>What can I do with my Storyteller Card?</h3>
@@ -99,6 +101,10 @@ What you do with your card will be up to you, the Storyteller, as you help write
         
 </div>
 
+    
+     <hr> 
+    
+    
 <div className="container mx-auto px-4 sm:w-1/2">
 
 <h2>How do I buy and keep a Storytelling Card?</h2>
@@ -114,8 +120,6 @@ To mint an NFT on the Ethereum blockchain, you'll need both Ether (ETH) and a wa
 Recommended wallets are <a href="https://metamask.io/">MetaMask</a> and <a href="https://rainbow.me">Rainbow</a>,
 which allow you to add ETH using Apple Pay.
 </p>
-
-
 
 
 <h3>How do I buy Ether?</h3>
@@ -135,13 +139,13 @@ network.
 
 Once you've bought your Ether, transfer it by sending it to the address of the wallet you just created earlier.
 </p>
+   
 
 <h3>How much does a Storytelling Card NFT cost?</h3>
 
 <p>
 The Storytelling Card costs 0.05 ETH each to mint.
 </p>
-
 
 
 <h3>How do I mint my Storytelling Card?</h3>
