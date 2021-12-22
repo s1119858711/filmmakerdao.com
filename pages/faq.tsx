@@ -44,7 +44,7 @@ and aligned in the vision to build more equitable distribution strategies for th
 
 
   
-  <h3 color="#33E0FF'><b>What are the Storytelling Cards?</b></h3>
+  <h3 color="#33E0FF"><b>What are the Storytelling Cards?</b></h3>
 
 <p>
 The Storytelling Card collection is the FilmmakerDAO NFT series for season 0. 
