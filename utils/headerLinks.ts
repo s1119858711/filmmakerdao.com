@@ -12,7 +12,7 @@ export const headerLinks: Array<Links> = [
     
         {
         name: "Midsummer",
-        path: "https://docs.midsummer.party/the-destiny-of-storytelling/midsummer-nfts"
+        path: "https://docs.midsummer.party/"
     },
 
     
