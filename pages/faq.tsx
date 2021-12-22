@@ -23,7 +23,7 @@ FilmmakerDAO is the DAO for filmmakers and film enthusiasts.
 </p>
   
 <p>
-At FilmmakerDAO coordinated efforts from filmmakers, technologists, and art lovers who believe in the power of film. 
+At FilmmakerDAO, we coordinated efforts from filmmakers, technologists, and art lovers who believe in the power of film. 
 </p>
   
 <p>
