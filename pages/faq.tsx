@@ -8,33 +8,35 @@ export default function FAQ(): ReactElement {
     <Layout>
 
 
-      <div className="container mx-auto py-20 px-4 sm:w-1/2">
 
-
+<div className="container mx-auto py-20 px-4 sm:w-1/2">
 
 <h2>What is FilmmakerDAO?</h2>
 
 <p>
 FilmmakerDAO is the DAO for filmmakers and film enthusiasts. 
  </p>
-<p> 
-  
+
+  <p>   
  DAO stands for Decentalized Autonomous Organisation: a group of people with shared goals that are governed by an agreed set of rules coded into smart contracts
   on a blockchain.
 </p>
+  
 <p>
 At FilmmakerDAO coordinated efforts from filmmakers, technologists, and art lovers who believe in the power of film. 
 </p>
+  
 <p>
 We believe 
 filmmakers should have more ownership of their career, and more sovereignty
  over the IP they create. 
- 
  </p>
+  
 <p>
  We recognize that the current landscape of distribution 
  options does not provide commensurate upside for the storytellers and artists whose work populates these platforms.
 </p>
+  
 <p>
 We seek to become a diverse and open community from a broad spectrum of backgrounds and specialties unified 
 and aligned in the vision to build more equitable distribution strategies for the filmmaking industry.
@@ -47,59 +49,53 @@ and aligned in the vision to build more equitable distribution strategies for th
 The Storytelling Card collection is the FilmmakerDAO NFT series for season 0. 
 Each card is a generative storytelling ERC721 token created and stored on-chain. 
   </p>
-<p>
   
+<p>
   This collection was created and written by one of our core members, <a href="https://twitter.com/bt3gl">bt3gl</a>, 
   and all proceeds will be to be donated to our treasury, a Gnosis multi-wallet.
 </p>
+  
 <p>
 We thought Loot was a great project to spur further creative thought, and we hope Filmmakers can carry on that idea.
 Feel free to use your Storyteller Card in any way you want!
-
-
-        
-  </p>
+</p>
      
 <h3>How are the Storytelling Cards rolled out?</h3>
 
 <p>
 1,999 Filmmakers will be available to mint for active community members starting 8:00 a.m. ET on December 17th, 2021, at 0.05 ETH. 
 </p>
-<p>
-        
+
+  <p>      
 FilmmakerDAO reserves 662 cards to gift (Token IDs from 1338 to 1999), either before or after the launch.
 </p>
 
-        
-        
-        
+             
 
 <h3>What can I do with my Storyteller Card?</h3>
 
 <p>
-
 Your Storyteller Card will act as membership access to FilmmakerDAO community. 
 </p>
+  
 <p>
 Additionally, all cardholders will be airdropped 10% of $REEL (50 tokens). This is FilmmakerDAO’s illiquid governance token bridged in 
 the Polygon Network and will be able to vote and decide the future of FilmmakerDAO. The airdrop starts at the beginning of Season 1 (March) and will be vested 
 (10 $REEL/month for 5 months).
 </p>
-<p>
 
+  <p>
 But governance is not all! Holding a Storyteller Card will allow you to attend any DAO-organized events such as private screenings, 
   set visits productions, Q&A with top industry professionals, and social mixers, and... 
   some surprises <a href="https://twitter.com/filmmakerDAO/status/1473162340816146434?s=20">(like this 😉)!</a>
-  
  </p>
-<p>
   
   
+<p> 
 What you do with your card will be up to you, the Storyteller, as you help writing the story of FilmmakerDAO!
 </p>
 
-
-        
+    
         
 </div>
 
