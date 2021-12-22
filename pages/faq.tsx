@@ -11,7 +11,7 @@ export default function FAQ(): ReactElement {
 
 <div className="container mx-auto py-20 px-4 sm:w-1/2">
 
-<h2>What is FilmmakerDAO?</h2>
+  <h2><b>What is FilmmakerDAO?</b></h2>
 
 <p>
 FilmmakerDAO is the DAO for filmmakers and film enthusiasts. 
@@ -44,7 +44,7 @@ and aligned in the vision to build more equitable distribution strategies for th
 
 
   
-<h3>What are the Storytelling Cards?</h3>
+  <h3><b>What are the Storytelling Cards?</b></h3>
 
 <p>
 The Storytelling Card collection is the FilmmakerDAO NFT series for season 0. 
@@ -61,7 +61,7 @@ We thought Loot was a great project to spur further creative thought, and we hop
 Feel free to use your Storyteller Card in any way you want!
 </p>
      
-<h3>How are the Storytelling Cards rolled out?</h3>
+  <h3><b>How are the Storytelling Cards rolled out?</b></h3>
 
 <p>
 1,999 Filmmakers will be available to mint for active community members starting 8:00 a.m. ET on December 17th, 2021, at 0.05 ETH. 
@@ -74,7 +74,7 @@ FilmmakerDAO reserves 662 cards to gift (Token IDs from 1338 to 1999), either be
    
              
 
-<h3>What can I do with my Storyteller Card?</h3>
+  <h3><b>What can I do with my Storyteller Card?</b></h3>
 
 <p>
 Your Storyteller Card will act as membership access to FilmmakerDAO community. 
@@ -107,9 +107,9 @@ What you do with your card will be up to you, the Storyteller, as you help write
     
 <div className="container mx-auto px-4 sm:w-1/2">
 
-<h2>How do I buy and keep a Storytelling Card?</h2>
+  <h2><b>How do I buy and keep a Storytelling Card?</b></h2>
 
-<h3>How do I prepare my wallet?</h3>
+  <h3><b>How do I prepare my wallet?</b></h3>
 
 
 <p>
@@ -122,7 +122,7 @@ which allow you to add ETH using Apple Pay.
 </p>
 
 
-<h3>How do I buy Ether?</h3>
+  <h3><b>How do I buy Ether?</b></h3>
 
 <p>
 The easiest way to buy Ether, the currency used on Ethereum, is to use a crypto exchange. 
@@ -141,14 +141,14 @@ Once you've bought your Ether, transfer it by sending it to the address of the w
 </p>
    
 
-<h3>How much does a Storytelling Card NFT cost?</h3>
+  <h3><b>How much does a Storytelling Card NFT cost?</b></h3>
 
 <p>
 The Storytelling Card costs 0.05 ETH each to mint.
 </p>
 
 
-<h3>How do I mint my Storytelling Card?</h3>
+  <h3><b>How do I mint my Storytelling Card?</b></h3>
 
 <p>
 When you "mint" an NFT, you're interacting with a smart contract on the blockchain and making a transaction to create a 
@@ -172,7 +172,7 @@ In most cases, the transaction should take a minute or two to be completed.
 
 
 
-<h3>How do I view and keep my Storytelling Card?</h3>
+  <h3><b>How do I view and keep my Storytelling Card?</b></h3>
 
 <p>
 You should be able to view your Storytelling Card in your wallet or marketplaces like OpenSea.
