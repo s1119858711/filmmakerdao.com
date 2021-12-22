@@ -102,8 +102,6 @@ What you do with your card will be up to you, the Storyteller, as you help write
 </div>
 
     
-     <hr> 
-    
     
 <div className="container mx-auto px-4 sm:w-1/2">
 
