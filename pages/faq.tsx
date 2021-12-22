@@ -59,7 +59,7 @@ Feel free to use your Storyteller Card in any way you want!
 
         
   </p>
-<p>      
+     
 <h3>How are the Storytelling Cards rolled out?</h3>
 
 <p>
