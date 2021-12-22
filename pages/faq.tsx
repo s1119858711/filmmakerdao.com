@@ -52,7 +52,7 @@ Each card is a generative storytelling ERC721 token created and stored on-chain.
   
 <p>
   This collection was created and written by one of our core members, <a href="https://twitter.com/bt3gl">bt3gl</a>, 
-  and all proceeds will be to be donated to our treasury, a Gnosis multi-wallet.
+  and all proceeds will be to be donated to our treasury, a Gnosis multi-sig wallet.
 </p>
   
 <p>
