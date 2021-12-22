@@ -9,4 +9,11 @@ export const headerLinks: Array<Links> = [
         name: "FAQ",
         path: "/faq"
     },
+    
+        {
+        name: "Midsummer",
+        path: "https://docs.midsummer.party/the-destiny-of-storytelling/midsummer-nfts"
+    },
+
+    
 ];
