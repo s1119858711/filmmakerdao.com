@@ -11,8 +11,8 @@ export const headerLinks: Array<Links> = [
     },
     
         {
-        name: "Midsummer",
-        path: "https://docs.midsummer.party/"
+        name: "Newsletter",
+        path: "https://story.mirror.xyz/"
     },
 
     
