@@ -18,7 +18,7 @@ FilmmakerDAO is the DAO for filmmakers and film enthusiasts.
  </p>
 
   <p>   
- DAO stands for Decentralized Autonomous Organisation: a group of people with shared goals that are governed by an agreed set of rules coded into smart contracts
+ DAO stands for Decentralized Autonomous Organization: a group of people with shared goals that are governed by an agreed set of rules coded into smart contracts
   on a blockchain.
 </p>
   
