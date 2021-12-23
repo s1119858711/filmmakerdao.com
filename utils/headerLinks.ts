@@ -7,6 +7,6 @@ export const headerLinks: Array<Links> = [
     },
     {
         name: "FAQ",
-        path: "/faq"
+        path: "/fmd"
     },
 ];
