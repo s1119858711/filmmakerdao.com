@@ -9,4 +9,11 @@ export const headerLinks: Array<Links> = [
         name: "FAQ",
         path: "/fmd"
     },
+    
+        {
+        name: "Newsletter",
+        path: "https://story.mirror.xyz/"
+    },
+
+    
 ];
