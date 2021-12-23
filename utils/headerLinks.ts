@@ -3,7 +3,7 @@ export const headerLinks: Array<Links> = [
 
     {
         name: "Formation Proposal",
-        path: "https://snapshot.org/#/thefilmmakerdao.eth/proposal/0xeae530fea4e6aa7522497ddcf35bdce50818e35d0f6fb11e88925bd61cec181f",
+        path: "https://snapshot.org/#/thefilmmakerdao.eth/proposal/0x10b60de357f54310d90b66944375c570124e1496db3aea9756c4cdb83274d0ff",
     },
 
     
