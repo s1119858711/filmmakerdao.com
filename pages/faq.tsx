@@ -58,7 +58,7 @@ Each card is a generative storytelling ERC721 token created and stored on-chain.
   
 <p>
 We thought Loot was a great project to spur further creative thought, and we hope Filmmakers can carry on that idea.
-Feel free to use your Storyteller Card in any way you want!
+
 </p>
     
       </div>
