@@ -23,7 +23,7 @@ const loot: Project = {
   opensea: {
     url: "https://opensea.io/collection/storyteller-card"
   },
-  image: "https://gateway.pinata.cloud/ipfs/QmcDmV7fekHmqzVAAo4SJm2Ap59WApAAPGhSR3qoNqN56Z"
+  image: "https://gateway.pinata.cloud/ipfs/QmfXTPxm5EvnmkroPvW3DfocGrU4MfNkwCaXFE7aYRA1kP"
 };
 
 export {

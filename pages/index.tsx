@@ -3,6 +3,7 @@ import { CardRow } from "@components/Row";
 import { onlyLoot } from "../utils/newLists"
 import Opensea from "../img/opensea.svg"
 import Twitter from "../img/twitter.svg";
+import Github from "../img/github.svg";
 import Discord from "../img/discord.svg";
 
 import type { ReactElement } from "react";
@@ -43,6 +44,13 @@ export default function Home(): ReactElement {
                   target="_blank"
                 >
                   <Discord className="fill-current  text-white w-6 h-6 mx-2" />
+                </a>
+                <a
+                  href="https://github.com/filmmakerDAO"
+                  className="self-center p-3 border border-gray-800 rounded-xl  bg-black hover:bg-gray-600"
+                  target="_blank"
+                >
+                  <Github className="fill-current  text-white w-6 h-6 mx-2" />
                 </a>
               </div>
             </div>
