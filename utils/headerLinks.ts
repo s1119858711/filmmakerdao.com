@@ -15,6 +15,10 @@ export const headerLinks: Array<Links> = [
         name: "FAQ",
         path: "/faq"
     },
+    {
+        name:'Unused ID',
+        path: '/unusedId'
+    }
 
     
 ];
