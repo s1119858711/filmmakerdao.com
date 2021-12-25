@@ -11,14 +11,14 @@ export default function FAQ(): ReactElement {
 
 <div className="container mx-auto py-20 px-4 sm:w-1/2">
 
-  <h2><b>What is FilmmakerDAO?</b></h2>
+  <h2><b>🎞  What is FilmmakerDAO?</b></h2>
 
 <p>
 FilmmakerDAO is the DAO for filmmakers and film enthusiasts. 
  </p>
 
   <p>   
- DAO stands for Decentralized Autonomous Organisation: a group of people with shared goals that are governed by an agreed set of rules coded into smart contracts
+ DAO stands for Decentralized Autonomous Organization: a group of people with shared goals that are governed by an agreed set of rules coded into smart contracts
   on a blockchain.
 </p>
   
@@ -42,9 +42,9 @@ We seek to become a diverse and open community from a broad spectrum of backgrou
 and aligned in the vision to build more equitable distribution strategies for the filmmaking industry.
 </p>
 
-
-  
-  <h3 color="#33E0FF"><b>What are the Storytelling Cards?</b></h3>
+</div>
+  <div className="container mx-auto py-20 px-4 sm:w-1/2">
+  <h2><b>🎞  What are the Storytelling Cards?</b></h2>
 
 <p>
 The Storytelling Card collection is the FilmmakerDAO NFT series for season 0. 
@@ -58,10 +58,13 @@ Each card is a generative storytelling ERC721 token created and stored on-chain.
   
 <p>
 We thought Loot was a great project to spur further creative thought, and we hope Filmmakers can carry on that idea.
-Feel free to use your Storyteller Card in any way you want!
+
 </p>
+    
+      </div>
+    <div className="container mx-auto py-20 px-4 sm:w-1/2">
      
-  <h3><b>How are the Storytelling Cards rolled out?</b></h3>
+  <h2><b>🎞  How are the Storytelling Cards rolled out?</b></h2>
 
 <p>
 1,999 Filmmakers will be available to mint for active community members starting 8:00 a.m. ET on December 17th, 2021, at 0.05 ETH. 
@@ -71,10 +74,10 @@ Feel free to use your Storyteller Card in any way you want!
 FilmmakerDAO reserves 662 cards to gift (Token IDs from 1338 to 1999), either before or after the launch.
 </p>
 
-   
+      </div>
              
-
-  <h3><b>What can I do with my Storyteller Card?</b></h3>
+<div className="container mx-auto py-20 px-4 sm:w-1/2">
+  <h2><b>🎞  What can I do with my Storyteller Card?</b></h2>
 
 <p>
 Your Storyteller Card will act as membership access to FilmmakerDAO community. 
@@ -105,9 +108,9 @@ What you do with your card will be up to you, the Storyteller, as you help write
     
 <div className="container mx-auto px-4 sm:w-1/2">
 
-  <h2><b>How do I buy and keep a Storytelling Card?</b></h2>
+  <h2><b>🎞  How do I buy and keep a Storytelling Card?</b></h2>
 
-  <h3><b>How do I prepare my wallet?</b></h3>
+
 
 
 <p>
@@ -119,8 +122,10 @@ Recommended wallets are <a href="https://metamask.io/">MetaMask</a> and <a href=
 which allow you to add ETH using Apple Pay.
 </p>
 
+      </div>
+  <div className="container mx-auto py-20 px-4 sm:w-1/2">
 
-  <h3><b>How do I buy Ether?</b></h3>
+  <h2><b>🎞  How do I buy Ether?</b></h2>
 
 <p>
 The easiest way to buy Ether, the currency used on Ethereum, is to use a crypto exchange. 
@@ -138,15 +143,11 @@ network.
 Once you've bought your Ether, transfer it by sending it to the address of the wallet you just created earlier.
 </p>
    
-
-  <h3><b>How much does a Storytelling Card NFT cost?</b></h3>
-
-<p>
-The Storytelling Card costs 0.05 ETH each to mint.
-</p>
+      </div>
+    <div className="container mx-auto py-20 px-4 sm:w-1/2">
 
 
-  <h3><b>How do I mint my Storytelling Card?</b></h3>
+  <h2><b>🎞  How do I mint my Storytelling Card?</b></h2>
 
 <p>
 When you "mint" an NFT, you're interacting with a smart contract on the blockchain and making a transaction to create a 
@@ -169,8 +170,10 @@ In most cases, the transaction should take a minute or two to be completed.
 </p>
 
 
-
-  <h3><b>How do I view and keep my Storytelling Card?</b></h3>
+      </div>
+      <div className="container mx-auto py-20 px-4 sm:w-1/2">
+        
+  <h2><b>🎞  How do I view and keep my Storytelling Card?</b></h2>
 
 <p>
 You should be able to view your Storytelling Card in your wallet or marketplaces like OpenSea.
