@@ -632,13 +632,13 @@ export default function Unused(): ReactElement {
   return (
     <Layout>
         <div className="container mx-auto py-20 px-4 sm:w-1/2">
-            <h2><b>🙌 How many unused IDs are there? </b></h2>
+            <h2><b>🙌 Browse available NFTs </b></h2>
             <p>
-            The total number is {totalSupply} in public sale. There are {totalSupply - totalunused} had minted, so there are only {totalunused} leave.
+            The total number in public sale is {totalSupply}. There are {totalSupply - totalunused} already minted, so there are only {totalunused} left.
             </p>
     
             <div>
-                You could minted number below, choose your love best one.
+                You could mint any number below, choose your favorite one.
                 <ul>
                 {items.map((item,index)=>(
                     <li key={index} >
