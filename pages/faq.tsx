@@ -11,7 +11,7 @@ export default function FAQ(): ReactElement {
 
 <div className="container mx-auto py-20 px-4 sm:w-1/2">
 
-  <h2><b>🎞  What is FilmmakerDAO?</b></h2>
+  <h2><b>What is FilmmakerDAO?</b></h2>
 
 <p>
 FilmmakerDAO is the DAO for filmmakers and film enthusiasts. 
@@ -44,7 +44,7 @@ and aligned in the vision to build more equitable distribution strategies for th
 
 </div>
   <div className="container mx-auto py-20 px-4 sm:w-1/2">
-  <h2><b>🎞  What are the Storytelling Cards?</b></h2>
+  <h2><b>What are the Storytelling Cards?</b></h2>
 
 <p>
 The Storytelling Card collection is the FilmmakerDAO NFT series for season 0. 
@@ -64,7 +64,7 @@ We thought Loot was a great project to spur further creative thought, and we hop
       </div>
     <div className="container mx-auto py-20 px-4 sm:w-1/2">
      
-  <h2><b>🎞  How are the Storytelling Cards rolled out?</b></h2>
+  <h2><b>How are the Storytelling Cards rolled out?</b></h2>
 
 <p>
 1,999 Filmmakers will be available to mint for active community members starting 8:00 a.m. ET on December 17th, 2021, at 0.05 ETH. 
@@ -77,7 +77,7 @@ FilmmakerDAO reserves 662 cards to gift (Token IDs from 1338 to 1999), either be
       </div>
              
 <div className="container mx-auto py-20 px-4 sm:w-1/2">
-  <h2><b>🎞  What can I do with my Storyteller Card?</b></h2>
+  <h2><b>What can I do with my Storyteller Card?</b></h2>
 
 <p>
 Your Storyteller Card will act as membership access to FilmmakerDAO community. 
@@ -108,7 +108,7 @@ What you do with your card will be up to you, the Storyteller, as you help write
     
 <div className="container mx-auto px-4 sm:w-1/2">
 
-  <h2><b>🎞  How do I buy and keep a Storytelling Card?</b></h2>
+  <h2><b>How do I buy and keep a Storytelling Card?</b></h2>
 
 
 
@@ -125,7 +125,7 @@ which allow you to add ETH using Apple Pay.
       </div>
   <div className="container mx-auto py-20 px-4 sm:w-1/2">
 
-  <h2><b>🎞  How do I buy Ether?</b></h2>
+  <h2><b>How do I buy Ether?</b></h2>
 
 <p>
 The easiest way to buy Ether, the currency used on Ethereum, is to use a crypto exchange. 
@@ -147,7 +147,7 @@ Once you've bought your Ether, transfer it by sending it to the address of the w
     <div className="container mx-auto py-20 px-4 sm:w-1/2">
 
 
-  <h2><b>🎞  How do I mint my Storytelling Card?</b></h2>
+  <h2><b>How do I mint my Storytelling Card?</b></h2>
 
 <p>
 When you "mint" an NFT, you're interacting with a smart contract on the blockchain and making a transaction to create a 
@@ -173,7 +173,7 @@ In most cases, the transaction should take a minute or two to be completed.
       </div>
       <div className="container mx-auto py-20 px-4 sm:w-1/2">
         
-  <h2><b>🎞  How do I view and keep my Storytelling Card?</b></h2>
+  <h2><b>How do I view and keep my Storytelling Card?</b></h2>
 
 <p>
 You should be able to view your Storytelling Card in your wallet or marketplaces like OpenSea.
